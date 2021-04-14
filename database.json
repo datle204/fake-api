@@ -2,7 +2,7 @@
   "questions": [
     { 
       "id": 1,
-      "question": "Nhân vật nào không có trong Mortal Kombat",
+      "question": "Nhân vật nào không có trong Mortal Kombat?",
       "choices":[
         "Liu Kang",
         "Sub-Zero",
@@ -13,18 +13,18 @@
     },
     {
       "id": 2,
-      "question": "Nhân vật nào không có trong Avengers",
+      "question": "Nhân vật nào không có trong Avengers?",
       "choices":[
-        "Đạt",
+        "Hiếu",
         "Ironman",
         "Captain American",
         "Thor"
       ],
-      "answer": "Đạt"
+      "answer": "Hiếu"
     },
     { 
       "id": 3,
-      "question": "Nhân vật nào không có trong One Piece",
+      "question": "Nhân vật nào không có trong One Piece?",
       "choices":[
         "Luffy",
         "Zorro",
@@ -35,7 +35,7 @@
     },
     { 
       "id": 4,
-      "question": "Nhân vật nào không có trong Naruto",
+      "question": "Nhân vật nào không có trong Naruto?",
       "choices":[
         "Naruto",
         "Khánh",
@@ -47,7 +47,7 @@
     },
     { 
       "id": 5,
-      "question": "Nhân vật nào không có trong Bleach",
+      "question": "Nhân vật nào không có trong Bleach?",
       "choices":[
         "Ichigo",
         "Rukia",
